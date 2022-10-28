@@ -54,3 +54,4 @@ class TestNMC(unittest.TestCase):
         assert yc.ndim == 1
         assert yc.shape[0] == self.x.shape[0]
 """"""
+""""""
